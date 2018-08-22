@@ -1,2 +1,2 @@
 # project
-This isfor practice purpose
+This is for practice purpose
